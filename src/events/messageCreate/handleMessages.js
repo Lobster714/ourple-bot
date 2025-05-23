@@ -19,10 +19,13 @@ module.exports = (client, message) => {
         'mafuyu',
         'yuzuki',
         'yukari',
-        'una',
         'defoko',
         'kairiki',
-        'bear'
+        'castorice',
+        'robin',
+        'jade',
+        'ratio',
+        'kafka'
     ];
     let content = message.content.toLowerCase();
 
