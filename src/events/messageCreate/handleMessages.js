@@ -25,7 +25,8 @@ module.exports = (client, message) => {
         'robin',
         'jade',
         'ratio',
-        'kafka'
+        'kafka',
+        'kachow'
     ];
     let content = message.content.toLowerCase();
 
